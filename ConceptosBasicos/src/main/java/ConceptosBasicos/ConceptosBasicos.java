@@ -8,18 +8,12 @@ package ConceptosBasicos;
 
 import java.awt.Color;
 
-/**
- *
- * @author Rsin
- */
+
 public class ConceptosBasicos {
 
-    /**
-     * @param args the command line arguments
-     */
+    
     public static void main(String[] args) {
-        // TODO code application logic here
-        //Bocho
+        
         Automovil miBocho = new Automovil();
         miBocho.setMarca("VW");
         miBocho.setSubMarca("Sedan");

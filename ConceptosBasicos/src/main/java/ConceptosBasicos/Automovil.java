@@ -1,16 +1,9 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package ConceptosBasicos;
 
 import java.awt.Color;
 
-/**
- *
- * @author CUELLAR
- */
+
 class Automovil {
 
     void setMarca(String acura_Honda) {
